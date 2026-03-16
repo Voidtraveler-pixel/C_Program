@@ -9,7 +9,7 @@ All basic C Programming I have done during my college.
 - 5.One Dimensional Array
 - 6.Function
 - 7.Recursive Functions
-- 8. 1D+2D Array
+- 8.1D+2D Array
 - 9.Strings
 - 10.Pointers & Dynamic Memory
 - 11.File & Structure

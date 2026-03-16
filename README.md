@@ -1,6 +1,6 @@
 # C_Program
 All basic C Programming I have done during my college.
--Topics covered:
+- Topics covered:
 *********************************
 - 1.Basics of C
 - 2.Conditional Statements

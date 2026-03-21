@@ -13,3 +13,4 @@ Topics covered:
 - 9.Strings
 - 10.Pointers & Dynamic Memory
 - 11.File & Structure
+- 12.Practice
